@@ -4,6 +4,6 @@
   
   📱Flutter Experience - 2024 - 1º Edition📱
     
-  Desktop - Health Center Assistant 
+  Windows Desktop - Health Center Assistant 
   
 </h2>

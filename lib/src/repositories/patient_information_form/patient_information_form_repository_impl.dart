@@ -31,7 +31,7 @@ class PatientInformationFormRepositoryImpl
 
       final formData = data.first;
       final updateStatusResult = await updateStatus(
-          formData['id'], PatientInformationFormStatus.waiting);
+          formData['id'], PatientInformationFormStatus.checkIn);
 
       switch (updateStatusResult) {
         case Left(value: final exception):
